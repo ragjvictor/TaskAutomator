@@ -1,0 +1,16 @@
+site_name: TaskAutomator
+repo_url: https://github.com/ragjvictor/TaskAutomator
+repo_name: ragjvictor/TaskAutomator
+edit_uri: tree/main/docs
+
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/icon-task.png
+  favicon: assets/icon-task.png
+
+markdown_extensions:
+  - attr_list
+
+extra_css:
+  - stylesheets/extra.css
